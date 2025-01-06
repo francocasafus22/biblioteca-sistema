@@ -10,6 +10,8 @@ namespace BibliotecaMySQL2
 {
     internal class Conexion
     {
+        //Agregá tus datos de conexión
+
         protected string server = "localhost";
         protected string database = "biblioteca2";
         protected string user = "root";
