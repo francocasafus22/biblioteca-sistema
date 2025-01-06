@@ -12,10 +12,10 @@ namespace BibliotecaMySQL2
     {
         //Agregá tus datos de conexión
 
-        protected string server = "localhost";
-        protected string database = "biblioteca2";
-        protected string user = "root";
-        protected string password = "2005";
-        protected string port = "3306";
+        protected string server = "";
+        protected string database = "";
+        protected string user = "";
+        protected string password = "";
+        protected string port = "";
     }
 }
